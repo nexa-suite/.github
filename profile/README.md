@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="./assets/nexa-banner.svg" alt="Nexa Banner" width="100%"/>
+<img src="./assets/nexa-logo.svg" alt="Nexa Logo" width="200"/>
 
 <br/><br/>
 
