@@ -1,5 +1,9 @@
-# .github
+# Nexa organization documentation
 
-This repository contains organization-level community health files and the public profile page for the `nexa-suite` organization.
+Shared organization profile and visual assets for current Nexa repositories.
 
-- The organization public profile page is located in [`profile/README.md`](profile/README.md).
+- [Organization profile](./profile/README.md)
+- [Nexa logo](./profile/assets/nexa-logo.svg)
+- [Nexa banner](./profile/assets/nexa-banner.svg)
+
+Current product repositories are documented in the profile. Historical repositories appear only in its clearly labeled Project Lineage section.
