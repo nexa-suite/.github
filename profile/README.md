@@ -8,7 +8,7 @@
 
 # Nexa
 
-**B2B cold-chain operations platform for coordinated commercial, inventory and delivery work.**
+**Fast, role-focused B2B multi-tenant SaaS for importers and distributors, particularly cold-chain businesses.**
 
 ![Java 25](https://img.shields.io/badge/Java-25-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot 4.1](https://img.shields.io/badge/Spring%20Boot-4.1-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Angular 22](https://img.shields.io/badge/Angular-22-DD0031?style=flat-square&logo=angular&logoColor=white) ![Static Website](https://img.shields.io/badge/Website-static-2563EB?style=flat-square)
 
